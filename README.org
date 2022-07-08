@@ -1,0 +1,32 @@
+** Summary
+*** The Gospel
+- [[https://mullikine.github.io/posts/the-tapestry-of-truth/][The Tapestry of Truth // Bodacious Blog]]
+
+*** How to Enter the Kingdom
+- [[https://mullikine.github.io/posts/gospel-of-thomas/][An exergesis of the 'Gospel of Thomas' // Bodacious Blog]]
+
+These are instructions to Jesus' disciples for entry into the Kingdom.
+
+*** How to Enter the Bridal Chamber
+- [[https://mullikine.github.io/posts/thy-bridal-chamber/][Thy Bridal Chamber // Bodacious Blog]]
+- [[https://mullikine.github.io/posts/gospel-of-philip/][An exergesis of the 'Gospel of Philip' - The Bridal Chamber and the Restoration // Bodacious Blog]]
+
+** Log
+If you experience any of these, please make a pull request.
+
+*** Water Baptism
+This is repentance.
+
+[[./water-baptism-log.org]]
+
+*** Baptism by Holy Spirit
+This is the Holy Spirit.
+
+[[./holy-spirit-baptism-log.org]]
+
+*** Bridal Chamber - Discipleship/Apostleship
+This is the Bridal Chamber.
+
+[[./bridal-chamber-log.org]]
+
+If you experience this, please log.
