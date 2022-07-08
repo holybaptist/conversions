@@ -1,5 +1,7 @@
 ** Summary
 *** The Gospel
+Jesus' Gospel contained within.
+
 - [[https://mullikine.github.io/posts/the-tapestry-of-truth/][The Tapestry of Truth // Bodacious Blog]]
 
 *** How to Enter the Kingdom
@@ -30,3 +32,6 @@ This is the Bridal Chamber.
 [[./bridal-chamber-log.org]]
 
 If you experience this, please log.
+
+Optionally, specify which of these you believe you are.
+- https://mullikine.github.io/posts/fivefold-ministry-archetype-of-servant/
